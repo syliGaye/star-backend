@@ -1,0 +1,1 @@
+package ci.sylvestregaye.starbackend.model.embeddable;
